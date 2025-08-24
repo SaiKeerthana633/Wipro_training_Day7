@@ -1,4 +1,4 @@
-﻿class DelgatePro
+﻿class DelegatePro
 {
     public delegate int Add(int a, int b);
     public delegate void Print(int sum);
