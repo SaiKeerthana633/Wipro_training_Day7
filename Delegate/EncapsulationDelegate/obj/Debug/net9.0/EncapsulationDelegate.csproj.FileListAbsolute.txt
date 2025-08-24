@@ -1,0 +1,14 @@
+C:\Wipro\wiproTraining\Day7\Delegate\EncapsulationDelegate\bin\Debug\net9.0\EncapsulationDelegate.exe
+C:\Wipro\wiproTraining\Day7\Delegate\EncapsulationDelegate\bin\Debug\net9.0\EncapsulationDelegate.deps.json
+C:\Wipro\wiproTraining\Day7\Delegate\EncapsulationDelegate\bin\Debug\net9.0\EncapsulationDelegate.runtimeconfig.json
+C:\Wipro\wiproTraining\Day7\Delegate\EncapsulationDelegate\bin\Debug\net9.0\EncapsulationDelegate.dll
+C:\Wipro\wiproTraining\Day7\Delegate\EncapsulationDelegate\bin\Debug\net9.0\EncapsulationDelegate.pdb
+C:\Wipro\wiproTraining\Day7\Delegate\EncapsulationDelegate\obj\Debug\net9.0\EncapsulationDelegate.GeneratedMSBuildEditorConfig.editorconfig
+C:\Wipro\wiproTraining\Day7\Delegate\EncapsulationDelegate\obj\Debug\net9.0\EncapsulationDelegate.AssemblyInfoInputs.cache
+C:\Wipro\wiproTraining\Day7\Delegate\EncapsulationDelegate\obj\Debug\net9.0\EncapsulationDelegate.AssemblyInfo.cs
+C:\Wipro\wiproTraining\Day7\Delegate\EncapsulationDelegate\obj\Debug\net9.0\EncapsulationDelegate.csproj.CoreCompileInputs.cache
+C:\Wipro\wiproTraining\Day7\Delegate\EncapsulationDelegate\obj\Debug\net9.0\EncapsulationDelegate.dll
+C:\Wipro\wiproTraining\Day7\Delegate\EncapsulationDelegate\obj\Debug\net9.0\refint\EncapsulationDelegate.dll
+C:\Wipro\wiproTraining\Day7\Delegate\EncapsulationDelegate\obj\Debug\net9.0\EncapsulationDelegate.pdb
+C:\Wipro\wiproTraining\Day7\Delegate\EncapsulationDelegate\obj\Debug\net9.0\EncapsulationDelegate.genruntimeconfig.cache
+C:\Wipro\wiproTraining\Day7\Delegate\EncapsulationDelegate\obj\Debug\net9.0\ref\EncapsulationDelegate.dll

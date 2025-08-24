@@ -1,0 +1,14 @@
+C:\Wipro\wiproTraining\Day7\Delegate\MulticastDelegate\obj\Debug\net9.0\MulticastDelegate.GeneratedMSBuildEditorConfig.editorconfig
+C:\Wipro\wiproTraining\Day7\Delegate\MulticastDelegate\obj\Debug\net9.0\MulticastDelegate.AssemblyInfoInputs.cache
+C:\Wipro\wiproTraining\Day7\Delegate\MulticastDelegate\obj\Debug\net9.0\MulticastDelegate.AssemblyInfo.cs
+C:\Wipro\wiproTraining\Day7\Delegate\MulticastDelegate\obj\Debug\net9.0\MulticastDelegate.csproj.CoreCompileInputs.cache
+C:\Wipro\wiproTraining\Day7\Delegate\MulticastDelegate\bin\Debug\net9.0\MulticastDelegate.exe
+C:\Wipro\wiproTraining\Day7\Delegate\MulticastDelegate\bin\Debug\net9.0\MulticastDelegate.deps.json
+C:\Wipro\wiproTraining\Day7\Delegate\MulticastDelegate\bin\Debug\net9.0\MulticastDelegate.runtimeconfig.json
+C:\Wipro\wiproTraining\Day7\Delegate\MulticastDelegate\bin\Debug\net9.0\MulticastDelegate.dll
+C:\Wipro\wiproTraining\Day7\Delegate\MulticastDelegate\bin\Debug\net9.0\MulticastDelegate.pdb
+C:\Wipro\wiproTraining\Day7\Delegate\MulticastDelegate\obj\Debug\net9.0\MulticastDelegate.dll
+C:\Wipro\wiproTraining\Day7\Delegate\MulticastDelegate\obj\Debug\net9.0\refint\MulticastDelegate.dll
+C:\Wipro\wiproTraining\Day7\Delegate\MulticastDelegate\obj\Debug\net9.0\MulticastDelegate.pdb
+C:\Wipro\wiproTraining\Day7\Delegate\MulticastDelegate\obj\Debug\net9.0\MulticastDelegate.genruntimeconfig.cache
+C:\Wipro\wiproTraining\Day7\Delegate\MulticastDelegate\obj\Debug\net9.0\ref\MulticastDelegate.dll

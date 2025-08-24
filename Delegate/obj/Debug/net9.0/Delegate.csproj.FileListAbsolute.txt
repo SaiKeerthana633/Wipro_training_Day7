@@ -1,0 +1,14 @@
+C:\Wipro\wiproTraining\Day7\Delegate\bin\Debug\net9.0\Delegate.exe
+C:\Wipro\wiproTraining\Day7\Delegate\bin\Debug\net9.0\Delegate.deps.json
+C:\Wipro\wiproTraining\Day7\Delegate\bin\Debug\net9.0\Delegate.runtimeconfig.json
+C:\Wipro\wiproTraining\Day7\Delegate\bin\Debug\net9.0\Delegate.dll
+C:\Wipro\wiproTraining\Day7\Delegate\bin\Debug\net9.0\Delegate.pdb
+C:\Wipro\wiproTraining\Day7\Delegate\obj\Debug\net9.0\Delegate.GeneratedMSBuildEditorConfig.editorconfig
+C:\Wipro\wiproTraining\Day7\Delegate\obj\Debug\net9.0\Delegate.AssemblyInfoInputs.cache
+C:\Wipro\wiproTraining\Day7\Delegate\obj\Debug\net9.0\Delegate.AssemblyInfo.cs
+C:\Wipro\wiproTraining\Day7\Delegate\obj\Debug\net9.0\Delegate.csproj.CoreCompileInputs.cache
+C:\Wipro\wiproTraining\Day7\Delegate\obj\Debug\net9.0\Delegate.dll
+C:\Wipro\wiproTraining\Day7\Delegate\obj\Debug\net9.0\refint\Delegate.dll
+C:\Wipro\wiproTraining\Day7\Delegate\obj\Debug\net9.0\Delegate.pdb
+C:\Wipro\wiproTraining\Day7\Delegate\obj\Debug\net9.0\Delegate.genruntimeconfig.cache
+C:\Wipro\wiproTraining\Day7\Delegate\obj\Debug\net9.0\ref\Delegate.dll
