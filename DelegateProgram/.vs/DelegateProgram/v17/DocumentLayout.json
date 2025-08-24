@@ -1,0 +1,53 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\USER\\source\\repos\\DelegateProgram\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{C336059F-9085-4960-9920-42D18DDAF14C}|DelegateProgram\\DelegateProgram.csproj|c:\\users\\user\\source\\repos\\delegateprogram\\delegateprogram\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C336059F-9085-4960-9920-42D18DDAF14C}|DelegateProgram\\DelegateProgram.csproj|solutionrelative:delegateprogram\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C336059F-9085-4960-9920-42D18DDAF14C}|DelegateProgram\\DelegateProgram.csproj|c:\\users\\user\\source\\repos\\delegateprogram\\delegateprogram\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{C336059F-9085-4960-9920-42D18DDAF14C}|DelegateProgram\\DelegateProgram.csproj|solutionrelative:delegateprogram\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\USER\\source\\repos\\DelegateProgram\\DelegateProgram\\Program.cs",
+              "RelativeDocumentMoniker": "DelegateProgram\\Program.cs",
+              "ToolTip": "C:\\Users\\USER\\source\\repos\\DelegateProgram\\DelegateProgram\\Program.cs",
+              "RelativeToolTip": "DelegateProgram\\Program.cs",
+              "ViewState": "AgIAAAUAAAAAAAAAAAAAwAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-07-27T07:01:51.87Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Form1.cs [Design]",
+              "DocumentMoniker": "C:\\Users\\USER\\source\\repos\\DelegateProgram\\DelegateProgram\\Form1.cs",
+              "RelativeDocumentMoniker": "DelegateProgram\\Form1.cs",
+              "ToolTip": "C:\\Users\\USER\\source\\repos\\DelegateProgram\\DelegateProgram\\Form1.cs [Design]",
+              "RelativeToolTip": "DelegateProgram\\Form1.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-07-27T06:55:25.765Z",
+              "EditorCaption": " [Design]"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

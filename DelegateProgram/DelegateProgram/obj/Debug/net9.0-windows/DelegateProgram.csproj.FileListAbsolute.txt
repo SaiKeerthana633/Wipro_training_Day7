@@ -1,0 +1,16 @@
+C:\Users\USER\source\repos\DelegateProgram\DelegateProgram\bin\Debug\net9.0-windows\DelegateProgram.exe
+C:\Users\USER\source\repos\DelegateProgram\DelegateProgram\bin\Debug\net9.0-windows\DelegateProgram.deps.json
+C:\Users\USER\source\repos\DelegateProgram\DelegateProgram\bin\Debug\net9.0-windows\DelegateProgram.runtimeconfig.json
+C:\Users\USER\source\repos\DelegateProgram\DelegateProgram\bin\Debug\net9.0-windows\DelegateProgram.dll
+C:\Users\USER\source\repos\DelegateProgram\DelegateProgram\bin\Debug\net9.0-windows\DelegateProgram.pdb
+C:\Users\USER\source\repos\DelegateProgram\DelegateProgram\obj\Debug\net9.0-windows\DelegateProgram.Form1.resources
+C:\Users\USER\source\repos\DelegateProgram\DelegateProgram\obj\Debug\net9.0-windows\DelegateProgram.csproj.GenerateResource.cache
+C:\Users\USER\source\repos\DelegateProgram\DelegateProgram\obj\Debug\net9.0-windows\DelegateProgram.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\USER\source\repos\DelegateProgram\DelegateProgram\obj\Debug\net9.0-windows\DelegateProgram.AssemblyInfoInputs.cache
+C:\Users\USER\source\repos\DelegateProgram\DelegateProgram\obj\Debug\net9.0-windows\DelegateProgram.AssemblyInfo.cs
+C:\Users\USER\source\repos\DelegateProgram\DelegateProgram\obj\Debug\net9.0-windows\DelegateProgram.csproj.CoreCompileInputs.cache
+C:\Users\USER\source\repos\DelegateProgram\DelegateProgram\obj\Debug\net9.0-windows\DelegateProgram.dll
+C:\Users\USER\source\repos\DelegateProgram\DelegateProgram\obj\Debug\net9.0-windows\refint\DelegateProgram.dll
+C:\Users\USER\source\repos\DelegateProgram\DelegateProgram\obj\Debug\net9.0-windows\DelegateProgram.pdb
+C:\Users\USER\source\repos\DelegateProgram\DelegateProgram\obj\Debug\net9.0-windows\DelegateProgram.genruntimeconfig.cache
+C:\Users\USER\source\repos\DelegateProgram\DelegateProgram\obj\Debug\net9.0-windows\ref\DelegateProgram.dll

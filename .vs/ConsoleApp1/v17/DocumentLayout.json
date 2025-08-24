@@ -1,0 +1,138 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "D:\\repos\\CsharpPrograms\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{B81C5668-8A33-4135-80CB-6181EC849A79}|ConsoleApp1\\ConsoleApp1.csproj|d:\\repos\\csharpprograms\\consoleapp1\\asynandsync.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B81C5668-8A33-4135-80CB-6181EC849A79}|ConsoleApp1\\ConsoleApp1.csproj|solutionrelative:consoleapp1\\asynandsync.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B81C5668-8A33-4135-80CB-6181EC849A79}|ConsoleApp1\\ConsoleApp1.csproj|D:\\repos\\CsharpPrograms\\ConsoleApp1\\Program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B81C5668-8A33-4135-80CB-6181EC849A79}|ConsoleApp1\\ConsoleApp1.csproj|solutionrelative:ConsoleApp1\\Program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B81C5668-8A33-4135-80CB-6181EC849A79}|ConsoleApp1\\ConsoleApp1.csproj|D:\\repos\\CsharpPrograms\\ConsoleApp1\\Indexer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B81C5668-8A33-4135-80CB-6181EC849A79}|ConsoleApp1\\ConsoleApp1.csproj|solutionrelative:ConsoleApp1\\Indexer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B81C5668-8A33-4135-80CB-6181EC849A79}|ConsoleApp1\\ConsoleApp1.csproj|D:\\repos\\CsharpPrograms\\ConsoleApp1\\stackandheap.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B81C5668-8A33-4135-80CB-6181EC849A79}|ConsoleApp1\\ConsoleApp1.csproj|solutionrelative:ConsoleApp1\\stackandheap.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B81C5668-8A33-4135-80CB-6181EC849A79}|ConsoleApp1\\ConsoleApp1.csproj|D:\\repos\\CsharpPrograms\\ConsoleApp1\\TupleandDeconstructor.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B81C5668-8A33-4135-80CB-6181EC849A79}|ConsoleApp1\\ConsoleApp1.csproj|solutionrelative:ConsoleApp1\\TupleandDeconstructor.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B81C5668-8A33-4135-80CB-6181EC849A79}|ConsoleApp1\\ConsoleApp1.csproj|D:\\repos\\CsharpPrograms\\ConsoleApp1\\Reference.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B81C5668-8A33-4135-80CB-6181EC849A79}|ConsoleApp1\\ConsoleApp1.csproj|solutionrelative:ConsoleApp1\\Reference.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B81C5668-8A33-4135-80CB-6181EC849A79}|ConsoleApp1\\ConsoleApp1.csproj|D:\\repos\\CsharpPrograms\\ConsoleApp1\\newprodgram.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B81C5668-8A33-4135-80CB-6181EC849A79}|ConsoleApp1\\ConsoleApp1.csproj|solutionrelative:ConsoleApp1\\newprodgram.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 2,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Program.cs",
+              "DocumentMoniker": "D:\\repos\\CsharpPrograms\\ConsoleApp1\\Program.cs",
+              "RelativeDocumentMoniker": "ConsoleApp1\\Program.cs",
+              "ToolTip": "D:\\repos\\CsharpPrograms\\ConsoleApp1\\Program.cs",
+              "RelativeToolTip": "ConsoleApp1\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAACQAAAAJAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-07-27T07:13:34.644Z",
+              "IsPinned": true
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:128:0:{13b12e3e-c1b4-4539-9371-4fe9a0d523fc}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Asynandsync.cs",
+              "DocumentMoniker": "D:\\repos\\CsharpPrograms\\ConsoleApp1\\Asynandsync.cs",
+              "RelativeDocumentMoniker": "ConsoleApp1\\Asynandsync.cs",
+              "ToolTip": "D:\\repos\\CsharpPrograms\\ConsoleApp1\\Asynandsync.cs",
+              "RelativeToolTip": "ConsoleApp1\\Asynandsync.cs",
+              "ViewState": "AgIAAAYAAAAAAAAAAAAuwAEAAAASAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-07-27T08:52:07.923Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Indexer.cs",
+              "DocumentMoniker": "D:\\repos\\CsharpPrograms\\ConsoleApp1\\Indexer.cs",
+              "RelativeDocumentMoniker": "ConsoleApp1\\Indexer.cs",
+              "ToolTip": "D:\\repos\\CsharpPrograms\\ConsoleApp1\\Indexer.cs",
+              "RelativeToolTip": "ConsoleApp1\\Indexer.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAEYAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-07-27T08:47:36.213Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "stackandheap.cs",
+              "DocumentMoniker": "D:\\repos\\CsharpPrograms\\ConsoleApp1\\stackandheap.cs",
+              "RelativeDocumentMoniker": "ConsoleApp1\\stackandheap.cs",
+              "ToolTip": "D:\\repos\\CsharpPrograms\\ConsoleApp1\\stackandheap.cs",
+              "RelativeToolTip": "ConsoleApp1\\stackandheap.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAoAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-07-27T08:40:16.444Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "TupleandDeconstructor.cs",
+              "DocumentMoniker": "D:\\repos\\CsharpPrograms\\ConsoleApp1\\TupleandDeconstructor.cs",
+              "RelativeDocumentMoniker": "ConsoleApp1\\TupleandDeconstructor.cs",
+              "ToolTip": "D:\\repos\\CsharpPrograms\\ConsoleApp1\\TupleandDeconstructor.cs",
+              "RelativeToolTip": "ConsoleApp1\\TupleandDeconstructor.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAACMAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-07-27T08:29:04.922Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "Reference.cs",
+              "DocumentMoniker": "D:\\repos\\CsharpPrograms\\ConsoleApp1\\Reference.cs",
+              "RelativeDocumentMoniker": "ConsoleApp1\\Reference.cs",
+              "ToolTip": "D:\\repos\\CsharpPrograms\\ConsoleApp1\\Reference.cs",
+              "RelativeToolTip": "ConsoleApp1\\Reference.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAgAAAATAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-07-27T08:26:36.83Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "newprodgram.cs",
+              "DocumentMoniker": "D:\\repos\\CsharpPrograms\\ConsoleApp1\\newprodgram.cs",
+              "RelativeDocumentMoniker": "ConsoleApp1\\newprodgram.cs",
+              "ToolTip": "D:\\repos\\CsharpPrograms\\ConsoleApp1\\newprodgram.cs",
+              "RelativeToolTip": "ConsoleApp1\\newprodgram.cs",
+              "ViewState": "AgIAACcAAAAAAAAAAAAowAoAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-07-27T07:23:27.39Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
